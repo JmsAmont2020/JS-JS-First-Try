@@ -22,4 +22,4 @@ console.log(isHope);
 // The console should read: My favorite course is Geography. My grade is a 98. Hope: true.
 // If you're drawing a blank on this skill, this documentation will help:
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-console.log(`My favorite is ${favcourse}. My grade is a ${grade}. Hope: true`)
+console.log(`My favorite course is ${favcourse}. My grade is a ${grade}. Hope: ${isHope}`)
