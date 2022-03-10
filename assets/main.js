@@ -11,7 +11,7 @@ console.log(favcourse);
 // Note: this variable should be an integer
 let grade = `98`
 // 4. Log the value of `grade` to the console
-console.log(grade)
+console.log(grade);
 // 5. Create a variable whose value is a Boolean called `isHope`
 // You should set it dependent upon if there is/is not hope for your grade
 // in said course.
@@ -22,4 +22,4 @@ console.log(isHope);
 // The console should read: My favorite course is Geography. My grade is a 98. Hope: true.
 // If you're drawing a blank on this skill, this documentation will help:
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
-console.log(`My favorite course is ${favcourse}. My grade is a ${grade}. Hope: ${isHope}`)
+console.log(`My favorite course is ${favcourse}. My grade is a ${grade}. Hope: ${isHope}`);
